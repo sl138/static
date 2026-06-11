@@ -1,0 +1,540 @@
+@font-face {
+  font-family: iconfont;
+  src: url("@/assets/fonts/iconfont.woff2") format("woff2")
+}
+
+.iconfont {
+  font-family: iconfont !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale
+}
+
+.icon-icon_hongbao:before {
+  content: "\e6a7"
+}
+
+.icon-icon-orange:before {
+  content: "\e6ab"
+}
+
+.icon-icon_nav_luckywin:before {
+  content: "\e6a6"
+}
+
+.icon-icon_nav_feature:before {
+  content: "\e6a5"
+}
+
+.icon-icon_nav_cockfighting:before {
+  content: "\e6a4"
+}
+
+.icon-icon_nav_rsg:before {
+  content: "\e695"
+}
+
+.icon-icon_nav_casino:before {
+  content: "\e69b"
+}
+
+.icon-icon_nav_chess:before {
+  content: "\e69c"
+}
+
+.icon-icon_nav_help:before {
+  content: "\e69d"
+}
+
+.icon-icon_nav_lottery:before {
+  content: "\e69e"
+}
+
+.icon-icon_nav_discounts:before {
+  content: "\e69f"
+}
+
+.icon-icon_nav_fishing:before {
+  content: "\e6a0"
+}
+
+.icon-icon_nav_home:before {
+  content: "\e6a1"
+}
+
+.icon-icon_nav_slots:before {
+  content: "\e6a2"
+}
+
+.icon-icon_nav_sports:before {
+  content: "\e6a3"
+}
+
+.icon-icon_ucenter_banbh:before {
+  content: "\e692"
+}
+
+.icon-icon_ucenter_bzzx:before {
+  content: "\e693"
+}
+
+.icon-icon_ucenter_gywm:before {
+  content: "\e694"
+}
+
+.icon-icon_ucenter_dlzx:before {
+  content: "\e695"
+}
+
+.icon-icon_ucenter_kfzx:before {
+  content: "\e696"
+}
+
+.icon-icon_ucenter_kjjg:before {
+  content: "\e697"
+}
+
+.icon-icon_ucenter_yqpy:before {
+  content: "\e698"
+}
+
+.icon-icon_ucenter_lssy:before {
+  content: "\e699"
+}
+
+.icon-icon_ucenter_qlhc:before {
+  content: "\e69a"
+}
+
+.icon-icon_hint:before {
+  content: "\e691"
+}
+
+.icon-icon_trend_chart:before {
+  content: "\e690"
+}
+
+.icon-icon_realname:before {
+  content: "\e68e"
+}
+
+.icon-icon_choose:before {
+  content: "\e68f"
+}
+
+.icon-icon_fund_withdraw:before {
+  content: "\e689"
+}
+
+.icon-icon_fund_topup:before {
+  content: "\e68c"
+}
+
+.icon-icon_withdraw_record:before {
+  content: "\e68a"
+}
+
+.icon-icon_nav_fund_nor:before {
+  content: "\e68b"
+}
+
+.icon-icon_transfer_record:before {
+  content: "\e68d"
+}
+
+.icon-icon_share:before {
+  content: "\e688"
+}
+
+.icon-icon_tpbank:before {
+  content: "\e686"
+}
+
+.icon-icon_qrcode:before {
+  content: "\e687"
+}
+
+.icon-icon_totalPrize:before {
+  content: "\e685"
+}
+
+.icon-icon_wal:before {
+  content: "\e684"
+}
+
+.icon-icon_lotteryinfo:before {
+  content: "\e683"
+}
+
+.icon-icon_alarm:before {
+  content: "\e682"
+}
+
+.icon-icon_lorreryhistory:before {
+  content: "\e681"
+}
+
+.icon-icon_sexylady:before {
+  content: "\e680"
+}
+
+.icon-icon_search:before {
+  content: "\e67f"
+}
+
+.icon-icon_history:before {
+  content: "\e67e"
+}
+
+.icon-icon_add_account:before {
+  content: "\e67c"
+}
+
+.icon-icon_binding:before {
+  content: "\e67d"
+}
+
+.icon-icon_unfold:before {
+  content: "\e67a"
+}
+
+.icon-icon_fold:before {
+  content: "\e67b"
+}
+
+.icon-icon_invite_friend:before {
+  content: "\e679"
+}
+
+.icon-icon_announcement:before {
+  content: "\e678"
+}
+
+.icon-icon_close_24:before {
+  content: "\e676"
+}
+
+.icon-icon_close_46:before {
+  content: "\e677"
+}
+
+.icon-icon_star:before {
+  content: "\e675"
+}
+
+.icon-icon_help_centre:before {
+  content: "\e674"
+}
+
+.icon-icon_setup:before {
+  content: "\e673"
+}
+
+.icon-icon_send_emoji:before {
+  content: "\e66f"
+}
+
+.icon-icon_send_img:before {
+  content: "\e670"
+}
+
+.icon-icon_get_back:before {
+  content: "\e671"
+}
+
+.icon-icon_amend_name:before {
+  content: "\e672"
+}
+
+.icon-icon_floatbar_close:before {
+  content: "\e66b"
+}
+
+.icon-icon_drapdown:before {
+  content: "\e66c"
+}
+
+.icon-icon_floatbar_phone:before {
+  content: "\e66d"
+}
+
+.icon-icon_download_btn:before {
+  content: "\e66e"
+}
+
+.icon-icon_nav_chatroom_nor:before {
+  content: "\e66a"
+}
+
+.icon-icon_cs:before {
+  content: "\e667"
+}
+
+.icon-icon_game_demo:before {
+  content: "\e668"
+}
+
+.icon-icon_pc_login:before {
+  content: "\e669"
+}
+
+.icon-icon_account:before {
+  content: "\e662"
+}
+
+.icon-icon_auth_code:before {
+  content: "\e663"
+}
+
+.icon-icon_handphone:before {
+  content: "\e664"
+}
+
+.icon-icon_password:before {
+  content: "\e665"
+}
+
+.icon-icon_invitation_code:before {
+  content: "\e666"
+}
+
+.icon-icon_draw_notice:before {
+  content: "\e661"
+}
+
+.icon-home_nav_icon_fish_nor:before {
+  content: "\e65a"
+}
+
+.icon-home_nav_icon_chess_nor:before {
+  content: "\e65b"
+}
+
+.icon-home_nav_icon_live_nor:before {
+  content: "\e65c"
+}
+
+.icon-home_nav_icon_lottery_nor:before {
+  content: "\e65d"
+}
+
+.icon-home_nav_icon_rec_nor:before {
+  content: "\e65e"
+}
+
+.icon-home_nav_icon_sports_nor:before {
+  content: "\e65f"
+}
+
+.icon-home_nav_icon_slot_nor:before {
+  content: "\e660"
+}
+
+.icon-icon_odds:before {
+  content: "\e658"
+}
+
+.icon-icon_stake:before {
+  content: "\e659"
+}
+
+.icon-icon_add_bankcard:before {
+  content: "\e651"
+}
+
+.icon-icon_feedback_nor:before {
+  content: "\e652"
+}
+
+.icon-icon_chat_room:before {
+  content: "\e653"
+}
+
+.icon-icon_funds_details_nor:before {
+  content: "\e654"
+}
+
+.icon-icon_minimize:before {
+  content: "\e655"
+}
+
+.icon-icon_set:before {
+  content: "\e656"
+}
+
+.icon-icon_my_wallet_nor:before {
+  content: "\e657"
+}
+
+.icon-icon_customer_service:before {
+  content: "\e650"
+}
+
+.icon-icon_flash:before {
+  content: "\e64a"
+}
+
+.icon-icon_data:before {
+  content: "\e64d"
+}
+
+.icon-icon_edit_avatar:before {
+  content: "\e63e"
+}
+
+.icon-icon_send_photo:before {
+  content: "\e639"
+}
+
+.icon-icon_radio_button_sel1:before {
+  content: "\e62a"
+}
+
+.icon-icon_radio_button_nor:before {
+  content: "\e626"
+}
+
+.icon-icon_succeed:before {
+  content: "\e627"
+}
+
+.icon-icon_calendar:before {
+  content: "\e628"
+}
+
+.icon-icon_drop_down_solid:before {
+  content: "\e629"
+}
+
+.icon-icon_refresh_gold_12:before {
+  content: "\e62b"
+}
+
+.icon-icon_nav_bet_bill_nor:before {
+  content: "\e62c"
+}
+
+.icon-icon_more_blue_16:before {
+  content: "\e62d"
+}
+
+.icon-icon_close_dark:before {
+  content: "\e62e"
+}
+
+.icon-icon_alert:before {
+  content: "\e62f"
+}
+
+.icon-icon_clock:before {
+  content: "\e630"
+}
+
+.icon-icon_close_white:before {
+  content: "\e631"
+}
+
+.icon-icon_refresh_blue_12:before {
+  content: "\e632"
+}
+
+.icon-icon_delete:before {
+  content: "\e633"
+}
+
+.icon-icon_email:before {
+  content: "\e634"
+}
+
+.icon-icon_send:before {
+  content: "\e635"
+}
+
+.icon-icon_warning_8:before {
+  content: "\e636"
+}
+
+.icon-icon_show:before {
+  content: "\e637"
+}
+
+.icon-icon_fault:before {
+  content: "\e638"
+}
+
+.icon-icon_nav_my_nor:before {
+  content: "\e63a"
+}
+
+.icon-icon_chat:before {
+  content: "\e63b"
+}
+
+.icon-icon_remind:before {
+  content: "\e63c"
+}
+
+.icon-icon_nav_game_nor:before {
+  content: "\e63d"
+}
+
+.icon-icon_more_white_16:before {
+  content: "\e63f"
+}
+
+.icon-icon_transfer_amount:before {
+  content: "\e640"
+}
+
+.icon-icon_radio_button_sel:before {
+  content: "\e641"
+}
+
+.icon-icon_vote_record:before {
+  content: "\e642"
+}
+
+.icon-icon_hide:before {
+  content: "\e643"
+}
+
+.icon-icon_back:before {
+  content: "\e644"
+}
+
+.icon-icon_checkbox_nor:before {
+  content: "\e645"
+}
+
+.icon-icon_nav_gift_nor:before {
+  content: "\e646"
+}
+
+.icon-icon_refresh_gold_16:before {
+  content: "\e647"
+}
+
+.icon-icon_visit_limit:before {
+  content: "\e648"
+}
+
+.icon-icon_checkbox_sel:before {
+  content: "\e649"
+}
+
+.icon-icon_sidebar:before {
+  content: "\e64b"
+}
+
+.icon-icon_message_centre:before {
+  content: "\e64c"
+}
+
+.icon-icon_personal_data:before {
+  content: "\e64e"
+}
+
+.icon-icon_top_up_record:before {
+  content: "\e64f"
+}
